@@ -7,6 +7,6 @@ This is file which you can extract video titles in youtube in bash!
 Superuseful. you don't need any dependencies. just type in your terminal "./tyt.sh [CHANNEL NAME]" That's it  
 
 
-if you want to just extract video names, not shorts add last /videos in your terminal  
+if you want to just extract video names, not shorts:D add last /videos in your terminal  
 
 e.g "./tyt.sh [CHANNEL NAME]/videos"
