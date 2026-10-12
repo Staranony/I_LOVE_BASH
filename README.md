@@ -1,5 +1,8 @@
 # I_LOVE_BASH
-use it and enjoy it !! haha 
+use it and enjoy it !! haha  
+
+Generally, you run it by using "./tyt.sh" command.  
+tyt is [filename], so you can change into whatever you want.  
 
 ### 2026.10.08 added tyt.sh 
 This is a file which you can extract video titles in youtube in bash!  
